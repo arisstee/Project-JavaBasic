@@ -1,0 +1,28 @@
+
+Magazine:
+
+id 		sasia
+
+a1		50
+b2		150
+f3		5
+x4		300
+c5		25
+e6		43
+g7		78
+
+
+
+Artikull:
+
+id	emri	cmimi	valuta	njesia	sasia
+a1	Rice	180	LEK	KG	5
+b2	Salt	100	LEK	KG	0.2       (kujdes cmimi total per 1 artikull eshte cmimi per njesi * sasi)
+f3	PC	699	EUR	COPE	2
+x4 	Phone	300	EUR	COPE	1
+c5	Speaker	30	USD	COPE	2
+e6	TV	80000	LEK	COPE	1
+g7	AC	500	EUR	COPE	5
+
+Ne magazine ne do te ruajme vetem id e artikullit (jo emrin apo cmimin) edhe sasine ne gjendje
+Kur krijojme 1 fature te re i japim te dhenat per cdo artikull.
